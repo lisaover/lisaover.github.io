@@ -1,0 +1,93 @@
+<!DOCTYPE html> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head> 
+    <meta charset="UTF-8" /> 
+    <title>
+      DropDownMenu.html
+    </title>
+    <style type="text/css">
+      .menubar { border-collapse:collapse; cursor:default }
+      .menubar td { border:1px solid black;
+                    padding:0 }
+      .menubar div { position:relative; 
+                     line-height:1.5em;
+                     padding:0 0.5ex;
+                     margin:0 }
+      .menubar div div { position:absolute;
+                         top:1.5em; left:0;
+                         z-index:1; padding-left:0}
+      .navbar { border-collapse:collapse }
+      .navbar td { background-color:gray; 
+                   border:1px solid black;
+                   padding:3px }
+      .navbar a:visited, 
+        .navbar a:link { color:white; text-decoration:none }
+    </style>
+    <!-- Not valid in HTML5
+    <meta http-equiv="Content-Script-Type" content="text/javascript" />
+    -->
+    <script type="text/javascript" src="DropDownMenu.js">
+    </script>
+  </head> 
+  <body onload="addEventHandlers();">
+    <table class="menubar">
+      <tbody>
+        <tr>
+          <td>
+            <div id="MenuBar1"
+              >Books<div id="DropDown1" style="display:none">
+              <table class="navbar">
+                <tbody>
+                  <tr>
+                    <td id="DropDown1_1"><a
+                        href="http://www.example.com"
+                        >Home</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td id="DropDown1_2"><a
+                        href="http://www.example.org"
+                        >Products</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td id="DropDown1_3"><a
+                        href="http://www.example.net"
+                        >Purchase</a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              </div>
+            </div>
+          </td>
+          <td>
+            <div id="MenuBar2"
+              >Tools<div id="DropDown2" style="display:none">
+              <table class="navbar">
+                <tbody>
+                  <tr>
+                    <td id="DropDown2_1"><a
+                        href="http://www.example.com"
+                        >Sockets</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td id="DropDown2_2"><a
+                        href="http://www.example.org"
+                        >Wrenches</a>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              </div>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      This is a paragraph of text in the body of the document.
+    </p>
+  </body> 
+</html> 
