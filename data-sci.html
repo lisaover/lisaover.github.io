@@ -25,7 +25,7 @@ and open the template in the editor.
     
     <div id="header">
         <h3>Lisa Ann Over</h3>
-        <h2>{Computational Math : Data Science}</h2>
+        <h2>{Computational Math : Web Development}</h2>
     </div>
   
   <!-- Nav reference: https://www.w3schools.com/howto/howto_css_subnav.asp -->
@@ -33,20 +33,16 @@ and open the template in the editor.
   <a href="index.html">About Me</a>
   <a href="resume.html">Resume</a>
   <div class="subnav">
-    <button class="subnavbtn">Computational Math <i class="fa fa-caret-down"></i></button>
+    <button class="subnavbtn">Portfolio<i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
-      <a href="apps.html">Applications</a>
-      <a href="data-sci.html">Data Science</a>
+      <a href="prog.html">Programming</a>
       <a href="stats.html">Statistics</a>
-      <a href="web.html">Web Development</a>
-    </div>
-  </div> 
-  <div class="subnav">
-    <button class="subnavbtn">Library & Information Science <i class="fa fa-caret-down"></i></button>
-    <div class="subnav-content">
-      <a href="data-mgmt.html">Data Management</a>
+      <a href="data-sci.html">Data Science</a> 
+      <a href="web.html">Websites</a>
+      <a href="lis.html">Lib & Info Science</a>
     </div>
   </div>
+  <!--
   <div class="subnav">
     <button class="subnavbtn">Teaching <i class="fa fa-caret-down"></i></button>
     <div class="subnav-content">
@@ -58,6 +54,7 @@ and open the template in the editor.
       <a href="classroom-mgmt.html">Classroom Management</a>
     </div>
   </div>
+  -->
   <script type="text/javascript">
     <!-- Begin
     user = "lisa";
@@ -67,24 +64,29 @@ and open the template in the editor.
     // End -->
 </script>
 </div>
-  
-        <div id="c_edc" class="content">
-            <H3>Epidemiology Data Center</H3>
 
+        
+        <div id="c_data" class="content">
+
+            <h3>Library Data Project: Digital Humanities Topic Modeling</h3>
+
+            <p>The Humanities Data Librarian for the University Library at the University of Pittsburgh, Terry Kapral, provided three data sets for an analysis of the digital collections in the Humanities department. This was an exploratory, unsupervised learning project. The high-level goal was to investigate which topics are present within the humanities digital collection, and how those topics vary over time. Specifically, Mrs. Kapral was interested in answers to the following questions about the data:</p>
+            <ol>
+                <li>What are the latent topics across the digital items?</li>
+                <li>What items are related by topic?</li>
+                <li>How do topics change over time with respect to the time period covered by the items within each topic?</li>
+                <li>Are there any problems with the data?</li>
+            </ol>
+            <p>These questions were answered through data exploration, including word embeddings and t-SNE plots, and topic modeling, using the unsupervised learn- ing algorithm, Latent Dirichlet Allocation (LDA). Data exploration revealed problems in the data, some of which were mitigated. The final LDA model revealed 19 latent topics from the titles and abstracts in the metadata for the 124,517 digitized items that had a title.</p>
             
-
-        </div>
-
-        <div id="c_stack" class="content">
-
-            <h3>Stack Macro</h3>
-
-            
+            <a href="https://lisaover.github.io/PittDataMining/" target="Blank">Go to the project website</a>
+            <br><br>
+            <a href="https://github.com/lisaover/PittDataMining" target="Blank">View the project on Github</a>
         </div>
 
         <div id=nav>
-            <p><a href="#" id="edc">Epidemiology Data Center</a></p>
-            <p><a href="#" id="stack">Stack Macro</a></p>
+            <p><a href="#" id="libdata">Library Data Project: Digital Humanities Topic Modeling</a></p>
+            
         </div>
         
 </body>
