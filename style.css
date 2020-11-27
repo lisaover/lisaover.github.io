@@ -122,7 +122,7 @@ figure {
 }
 
 figure.wide {
-    width: 400px;
+    width: 580px;
 }
 
 figure img {
@@ -135,7 +135,7 @@ figure img {
 }
 
 figure.wide img {
-    width: 340px;
+    width: 540px;
 }
 
 figure figcaption {
