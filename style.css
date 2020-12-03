@@ -6,6 +6,17 @@
 /* Style the headings */
 h3, h4 {
     font-family: sans-serif;
+    font-size: 130%;
+}
+
+h3 {
+    font-family: sans-serif;
+    font-size: 130%;
+}
+
+h4 {
+    font-family: sans-serif;
+    font-size: 100%;
 }
 
 /* Default settings for the "responsive" image class so images are 90% of the screen and do not have enough room to wrap 
@@ -103,7 +114,7 @@ https://www.sitepoint.com/community/t/responsive-images-with-captions/276332 */
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 100%;
 }
 
 /* Add an active class to highlight the current page */
@@ -125,7 +136,7 @@ https://www.sitepoint.com/community/t/responsive-images-with-captions/276332 */
 
 /* Style the dropdown button to fit inside the topnav */
 .dropdown .dropbtn {
-  font-size: 17px;
+  font-size: 100%;
   border: none;
   outline: none;
   color: white;
@@ -174,6 +185,13 @@ https://www.sitepoint.com/community/t/responsive-images-with-captions/276332 */
 
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (orientation: portrait) {
+  .topnav a {
+  font-size: 130%;
+  }   
+  .dropdown .dropbtn {
+  font-size: 130%;
+  }
+  
   .topnav a:not(:first-child), .dropdown .dropbtn {
     display: none;
   }
