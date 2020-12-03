@@ -1,10 +1,15 @@
+@viewport {
+  width: device-width;
+  zoom: 1;
+}
+
 /* Style the headings */
 h3, h4 {
     font-family: sans-serif;
 }
 
-/* The "responsive" image class so images are 90% of the screen and do not have enough room to wrap */
-@media screen and (max-width: 600px) {
+/* Default settings for the "responsive" image class so images are 90% of the screen and do not have enough room to wrap 
+https://www.sitepoint.com/community/t/responsive-images-with-captions/276332 */
   .iHolder {
   display: inline-table;
   width: 90%;
@@ -18,10 +23,10 @@ h3, h4 {
   max-width:100%;
   height:auto;
   }
-}
 
-/* The "responsive" image class so images are 30% of the screen and wrap */
-@media screen and (min-width: 601px) {
+/* The "responsive" image class so images are 30% of the screen and wrap when the screen is large
+ https://www.sitepoint.com/community/t/responsive-images-with-captions/276332*/
+@media screen and (orientation: landscape) {
   .iHolder {
   display: inline-table;
   width: 30%;
@@ -75,6 +80,11 @@ h3, h4 {
 }
 
 .c_resume {
+    width: 80%;
+    margin: auto;
+}
+
+.c_home {
     width: 80%;
     margin: auto;
 }
@@ -163,7 +173,7 @@ h3, h4 {
 }
 
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
-@media screen and (max-width: 600px) {
+@media screen and (orientation: portrait) {
   .topnav a:not(:first-child), .dropdown .dropbtn {
     display: none;
   }
@@ -174,7 +184,7 @@ h3, h4 {
 }
 
 /* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
-@media screen and (max-width: 600px) {
+@media screen and (orientation: portrait) {
   .topnav.responsive {position: relative;}
   .topnav.responsive a.icon {
     position: absolute;
