@@ -6,12 +6,12 @@
 /* Style the headings */
 h3, h4 {
     font-family: sans-serif;
-    font-size: 130%;
+    font-size: 200%;
 }
 
 h3 {
     font-family: sans-serif;
-    font-size: 130%;
+    font-size: 200%;
 }
 
 h4 {
@@ -27,7 +27,7 @@ https://www.sitepoint.com/community/t/responsive-images-with-captions/276332 */
   background-color: #f8f8f8;
   padding: .5em;
   border: 1px solid #ccc;
-  margin: 0 .5em;
+  margin: 0 0 1em .5em;
   }
 .iHolder img {
   border: 1px solid #ccc;
@@ -44,7 +44,7 @@ https://www.sitepoint.com/community/t/responsive-images-with-captions/276332 */
   background-color: #f8f8f8;
   padding: .5em;
   border: 1px solid #ccc;
-  margin: 0 .5em;
+  margin: 0 0 1em .5em;
   }
 .iHolder img {
   border: 1px solid #ccc;
@@ -186,10 +186,10 @@ https://www.sitepoint.com/community/t/responsive-images-with-captions/276332 */
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (orientation: portrait) {
   .topnav a {
-  font-size: 130%;
+  font-size: 200%;
   }   
   .dropdown .dropbtn {
-  font-size: 130%;
+  font-size: 200%;
   }
   
   .topnav a:not(:first-child), .dropdown .dropbtn {
