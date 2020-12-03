@@ -1,82 +1,71 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 0;
+/* Style the headings */
+h3, h4 {
+    font-family: sans-serif;
 }
 
-#main {
-    width: 750px;
-    margin: auto;
-    padding-bottom: 50px;
+/* The "responsive" image class so images are 90% of the screen and do not have enough room to wrap */
+@media screen and (max-width: 600px) {
+  .iHolder {
+  display: inline-table;
+  width: 90%;
+  background-color: #f8f8f8;
+  padding: .5em;
+  border: 1px solid #ccc;
+  margin: 0 .5em;
+  }
+.iHolder img {
+  border: 1px solid #ccc;
+  max-width:100%;
+  height:auto;
+  }
 }
 
-#header {
-    height: 110px;
-    text-align: left;
-    padding-left:15px;
-    padding-top:5px;
-    padding-bottom:5px;
-    background-image: url("images/abstract-5258203_1920.png");
-    background-color:rgb(77, 102, 0);
-    background-size: 175px;
+/* The "responsive" image class so images are 30% of the screen and wrap */
+@media screen and (min-width: 601px) {
+  .iHolder {
+  display: inline-table;
+  width: 30%;
+  background-color: #f8f8f8;
+  padding: .5em;
+  border: 1px solid #ccc;
+  margin: 0 .5em;
+  }
+.iHolder img {
+  border: 1px solid #ccc;
+  max-width:100%;
+  height:auto;
+  }
 }
 
-#header h3 {
-    font-size:150%;
+.iHolder figcaption {
+  text-align: center;
+  padding: 0 .5em;
+}
+.iHolder figcaption a {
+    color:rgb(0, 102, 153);
+    text-decoration: none;
 }
 
-#header h2 {
-    font-size:120%;
+.iHolder figcaption a:hover {
+    color:rgb(0, 191, 255);
 }
 
-/*#breadcrumb {
-    height:40px;
-    padding-left:15px;
-    padding-top:5px;
-    padding-bottom:5px;
-    background-color:rgb(77, 102, 0);
+.iHolder figcaption h3 {
+    padding-bottom:0.25em;
+    padding-top:0.25em;
+    margin-bottom:0.15em;
+    margin-top:0.15em;
 }
 
-#breadcrumb h3 {
-    font-size:120%;
-}*/
-
-td {
-  padding: 1px;
-}
-th {
-  padding: 5px;
-  text-align: left;
+.iHolder figcaption p {
+    font-family: sans-serif;
+    padding-bottom:0.15em;
+    padding-top:0.15em;
+    margin-bottom:0.15em;
+    margin-top:0.15em;
 }
 
-.top {
-    margin-top:50px;
-}
-
-.content {
-    float: right;
-    padding-right: 50px;
-    padding-bottom: 50px;
-    margin-top:50px;
-    width:70%;
-}
-
-.container {
-  display: flex; /* or inline-flex */
-  flex-wrap:wrap;
-  width: 70%;
-}
-
-#nav {
-    width: 20%;
-    margin-top: 75px;
-    padding-left:15px;
-    padding-right:20px;
-}
-
-.title {
-    font-weight: bold;
-}
-
+/* Styles for text */
 .bold {
     font-weight: bold;
 }
@@ -85,97 +74,48 @@ th {
     font-style: italic;
 }
 
-li {
-    padding-bottom: 10px;
+.c_resume {
+    width: 80%;
+    margin: auto;
 }
 
-a {
-    text-decoration: none;
-    color: rgb(0, 102, 153);
-}
-
-a:link {
-    color: rgb(0, 102, 153); /*rgb(0, 153, 204)*/
-}
-
-a:active {
-    color: rgb(0, 191, 255);
-}
-
-a:hover {
-    color: rgb(0, 191, 255); /*rgb(0, 230, 138)*/
-}
-
-.container {
-  display: flex; /* or inline-flex */
-}
-
-figure {
-    display: block;
-    width:260px;
-    margin: 10px;
-    border-color: #333333 #666666 #666666 #333333;
-    border-width: 1px 2px 2px 1px;
-    border-radius: 5px;
-    box-shadow:2px 2px 3px #999999;
-    background:rgb(240,240,250);
-}
-
-figure.wide {
-    width: 580px;
-}
-
-figure img {
-    width:200px;
-    height:auto;
-    margin:5px 25px 5px 25px;
-    vertical-align: top;
-    border-radius: 5px;
-    background:rgb(255,255,255);
-}
-
-figure.wide img {
-    width: 540px;
-}
-
-figure figcaption {
-    text-align: center;
-    vertical-align:center;
-    margin:10px;
-    background:rgb(240,240,250);
-}
-
-figure figcaption a {
-    color:rgb(0, 102, 153);
-}
-
-figure figcaption a:hover {
-    color:rgb(0, 191, 255);
-}
-
-/* Dropdown */
-
-.navbar {
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
   overflow: hidden;
-  background-color: #333; 
 }
 
-.navbar a {
+/* Style the links inside the navigation bar */
+.topnav a {
   float: left;
-  font-size: 16px;
-  color: white;
+  display: block;
+  color: #f2f2f2;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-size: 17px;
 }
 
-.subnav {
+/* Add an active class to highlight the current page */
+.active {
+  background-color: rgb(0, 119, 179);
+  color: white;
+}
+
+/* Hide the link that should open and close the topnav on small screens */
+.topnav .icon {
+  display: none;
+}
+
+/* Dropdown container - needed to position the dropdown content */
+.dropdown {
   float: left;
   overflow: hidden;
 }
 
-.subnav .subnavbtn {
-  font-size: 16px;  
+/* Style the dropdown button to fit inside the topnav */
+.dropdown .dropbtn {
+  font-size: 17px;
   border: none;
   outline: none;
   color: white;
@@ -185,70 +125,72 @@ figure figcaption a:hover {
   margin: 0;
 }
 
-.navbar a:hover, .subnav:hover .subnavbtn {
-  background-color: rgb(0, 102, 153);
-}
-
-.subnav-content {
-  display: none;
-  position: absolute;
-  left: 0;
-  background-color: rgb(0, 102, 153);
-  background: -webkit-linear-gradient(rgb(0, 102, 153), #0099e6);
-  background:    -moz-linear-gradient(rgb(0, 102, 153), #0099e6);
-  background:         linear-gradient(rgb(0, 102, 153), #0099e6);
-  width: 100%;
-  z-index: 1;
-}
-
-.subnav-content a {
-  float: left;
-  color: white;
-  text-decoration: none;
-}
-
-.subnav-content a:hover {
-  background-color: #eee;
-  color: black;
-}
-
-.subnav:hover .subnav-content {
-  display: block;
-}dropbtn {
-  background-color: #3498DB;
-  color: white;
-  padding: 16px;
-  font-size: 16px;
-  border: none;
-  cursor: pointer;
-}
-
-.dropbtn:hover, .dropbtn:focus {
-  background-color: #2980B9;
-}
-
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
-
+/* Style the dropdown content (hidden by default) */
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: #f9f9f9;
   min-width: 160px;
-  overflow: auto;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
 
+/* Style the links inside the dropdown */
 .dropdown-content a {
+  float: none;
   color: black;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
+  text-align: left;
 }
 
-.dropdown a:hover {background-color: #ddd;}
+/* Add a dark background on topnav links and the dropdown button on hover */
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: #666;
+  color: white;
+}
 
-.show {display: block;}
+/* Add a grey background to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Show the dropdown menu when the user moves the mouse over the dropdown button */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child), .dropdown .dropbtn {
+    display: none;
+  }
+  .topnav a.icon {
+    float: right;
+    display: block;
+  }
+}
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+@media screen and (max-width: 600px) {
+  .topnav.responsive {position: relative;}
+  .topnav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .topnav.responsive .dropdown {float: none;}
+  .topnav.responsive .dropdown-content {position: relative;}
+  .topnav.responsive .dropdown .dropbtn {
+    display: block;
+    width: 100%;
+    text-align: left;
+  }
+} 
