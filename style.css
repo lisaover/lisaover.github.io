@@ -10,25 +10,22 @@ h3, h4 {
 
 h3 {
     font-family: sans-serif;
-    font-size: 200%;
+    font-size: 25px;
+    text-align: center;
 }
 
 h4 {
     font-family: sans-serif;
-    font-size: 130%;
+    font-size: 17px;
 }
 
 /* The "responsive" headings get larger in portrait */
 @media screen and (orientation: landscape) {
 h3 {
     font-family: sans-serif;
-    font-size: 130%;
+    font-size: 17px;
   }
 
-h4 {
-    font-family: sans-serif;
-    font-size: 100%;
-  }
 }
 
 /* Default settings for the "responsive" image class so images are 90% of the screen and do not have enough room to wrap 
@@ -112,6 +109,11 @@ https://www.sitepoint.com/community/t/responsive-images-with-captions/276332 */
     margin: auto;
 }
 
+.c_portfolio {
+    width: 90%;
+    margin: auto;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
@@ -126,7 +128,7 @@ https://www.sitepoint.com/community/t/responsive-images-with-captions/276332 */
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 100%;
+  font-size: 17px;
 }
 
 /* Add an active class to highlight the current page */
@@ -198,10 +200,10 @@ https://www.sitepoint.com/community/t/responsive-images-with-captions/276332 */
 /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (orientation: portrait) {
   .topnav a {
-  font-size: 200%;
+  font-size: 25px;
   }   
   .dropdown .dropbtn {
-  font-size: 200%;
+  font-size: 25px;
   }
   
   .topnav a:not(:first-child), .dropdown .dropbtn {
