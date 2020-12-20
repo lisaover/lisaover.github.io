@@ -1,6 +1,7 @@
 ---
 title: "Boggle Game"
-excerpt: "This version of Boggle is online game and uses Java Server Pages.<br/><img src='/images/Boggle Game.png'>"
+excerpt: "This servlet version of Boggle implements the MVC design pattern using a Java servlet as controller, a Java Beans class for the data model, 
+and the XML version of JSP (jspx) to generate the views.<br/><img src='/images/Boggle Game.png'>"
 collection: portfolio
 ---
 
