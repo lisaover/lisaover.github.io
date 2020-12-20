@@ -1,6 +1,6 @@
 ---
 title: "Digital Humanities Topic Modeling"
-excerpt: "This was an exploratory, unsupervised learning project. The high-level goal was to investigate which topics are present within the humanities digital collection, and how those topics vary over time.<br/><img src='/images/DigitalHumanitiesTopicModeling.png'>"
+excerpt: "The high-level goal of this exploratory, unsupervised learning project was to investigate which topics are present within the humanities digital collection, and how those topics vary over time.<br/><img src='/images/DigitalHumanitiesTopicModeling.png'>"
 collection: portfolio
 ---
 
