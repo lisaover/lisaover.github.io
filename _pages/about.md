@@ -1,0 +1,15 @@
+---
+permalink: /
+title: "Lisa Over"
+excerpt: "Welcome! Thank you for your interest in my resume and portfolio."
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Welcome! My name is Lisa Over, and I am a data manager for the Epidemiology Data Center at the University of Pittsburgh. Thank you for your interest in my resume and portfolio.
+
+My professional goal brings together my expertise and enthusiasm for computer science, statistics, and mathematics; my desire to solve problems that benefit people, organizations, or society; and my conviction to embrace challenges and to continue learning. For the past two years, I currently work in data management for the Epidemiology Data Center at the University of Pittsburgh. From 2016 to 2018, I taught Business Statistics courses as an Adjunct Professor in Duquesne's School of Business.
+
+I bring a set of core teaching, communication, and programming skills as well as professionalism, dedication, and perseverance to everything I do. I am an enthusiastic, independent learner and worker who values constructive criticism and welcomes opportunities to collaborate with peers. I gravitate toward intellectual challenges and am prone to try new approaches or techniques in my work. Thank you for taking an interest in my resume and portfolio.
