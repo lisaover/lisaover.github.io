@@ -1,6 +1,6 @@
 ---
 title: "Application Profile"
-excerpt: "Application Profile for Metadata course summer 2020<br/><img src='/images/LifeDuringCOVID-19ConceptualModel.png'>"
+excerpt: "The Life During COVID-19 Metadata Schema Application Profile is an XML Schema application profile for describing a collection of internet-based media and datasets that reflect American reactions and outcomes related to the COVID-19 pandemic of 2019-2020.<br/><img src='/images/LifeDuringCOVID-19ConceptualModel.png'>"
 collection: portfolio
 ---
 
