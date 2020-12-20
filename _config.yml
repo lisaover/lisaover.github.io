@@ -11,9 +11,9 @@ title                    : "Lisa Over"
 title_separator          : "-"
 name                     : &name "Lisa Over"
 description              : &description "Data manager & programmer with expertise is communication & teaching"
-url                      : https://lisastestsite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lisaover.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lisastestsite/lisastestsite.github.io"
+repository               : "lisaover/lisaover.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lisastestsite"
+  github           : "lisaover"
   google_plus      :
   keybase          :
   instagram        :
