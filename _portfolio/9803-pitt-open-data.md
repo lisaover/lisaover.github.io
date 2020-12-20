@@ -1,6 +1,6 @@
 ---
 title: "Census Tracts and Relationship Files"
-excerpt: "Census project for Open Data and Government course fall 2019<br/><img src='/images/OpenDataCensusProject.png'>"
+excerpt: "This Census project explains the Allegheny County 2000-2010 Census Tract Relationship File and shows how the 2010 Census tracts in Allegheny County, Pennsylvania relate to the 2000 Census tracts.<br/><img src='/images/OpenDataCensusProject.png'>"
 collection: portfolio
 ---
 
