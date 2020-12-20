@@ -4,11 +4,6 @@ excerpt: "The high-level goal of this exploratory, unsupervised learning project
 collection: portfolio
 ---
 
-#repos:
-- name: DigitalHumanitiesTopicModeling
-  description: Digital Humanities Topic Modeling project files
-  url: https://github.com/lisaover/DigitalHumanitiesTopicModeling
-
 <a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/" target="_blank">Project web page</a><br/>
 <a href="https://github.com/lisaover/DigitalHumanitiesTopicModeling">View Project on GitHub</a>
 
