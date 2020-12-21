@@ -1,8 +1,8 @@
 ---
 title: "UCOR 111 Problem Solving"
 collection: teaching
-type: "Course"
-permalink: /teaching/2015-spring-teaching-1
+type: "Undergraduate course"
+permalink: /teaching/2018-spring-ucor-111
 venue: "Duquense University, Department of Mathematics and Computer Science"
 date: 2018-01-01
 location: "Pittsburgh, United States"
