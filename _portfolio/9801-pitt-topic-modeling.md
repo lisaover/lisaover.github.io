@@ -4,8 +4,8 @@ excerpt: "The high-level goal of this exploratory, unsupervised learning project
 collection: portfolio
 ---
 
-<a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/" target="_blank">Project web page</a><br/>
-<a href="https://github.com/lisaover/DigitalHumanitiesTopicModeling">View Project on GitHub</a>
+<a href="https://lisaover.github.io/DigitalHumanitiesTopicModeling/" target="_blank">View the Project Website</a><br/>
+<a href="https://github.com/lisaover/DigitalHumanitiesTopicModeling">View the Project on GitHub</a>
 
 The Humanities Data Librarian for the University Library at the University of Pittsburgh, Terry Kapral, provided three data sets for an analysis of the digital collections in the Humanities department.
 
