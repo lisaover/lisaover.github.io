@@ -4,7 +4,7 @@ excerpt: "This Census project explains the Allegheny County 2000-2010 Census Tra
 collection: portfolio
 ---
 
-<a href="https://github.com/lisaover/PittOpenData">View Project on GitHub</a>
+<a href="https://github.com/lisaover/PittOpenData">View the Project on GitHub</a>
 
 # Allegheny County 2000/2010 Census Track Relationships
 This final course project is published on the Western Pennsylvania Regional Data Center Website: <BR>
