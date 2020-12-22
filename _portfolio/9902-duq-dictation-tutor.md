@@ -4,7 +4,7 @@ excerpt: "Dictation Tutor is a java application to enable English language learn
 collection: portfolio
 ---
 
-<a href="https://github.com/lisaover/DictationTutor">View Project on GitHub</a>
+<a href="https://github.com/lisaover/DictationTutor">View the Project on GitHub</a>
 
 ### Description
 
