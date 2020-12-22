@@ -8,6 +8,4 @@ date: 2015-01-01
 location: "Pittsburgh, United States"
 ---
 
-Fundamentals of Statistics is a survey course in exploratory data analysis and statistical inference including graphical summaries of data, sampling distributions, confidence intervals, and hypothesis testing.
-
-Students completed a research project for this course consisting of a survey or experiment. To complete the project, students gathered the appropriate data for exploratory data analysis and performed the analysis summarizing the data using the descriptive tools from the course. A formal report of the project was to be typed and submitted as if it were a scientific paper ready for presentation. For more information and to view student samples, see my <a href="https://lisasteaching.github.io/lisasteaching.github.io/statistics/" target="_blank">teaching portfolio</a>.
+Fundamentals of Statistics is a survey course in exploratory data analysis and statistical inference including graphical summaries of data, sampling distributions, confidence intervals, and hypothesis testing. Students engaged with these topics through hands-on activities and projects. For more information, see my <a href="https://lisasteaching.github.io/DuquesneProf/business_statistics/" target="_blank">teaching portfolio</a>.
