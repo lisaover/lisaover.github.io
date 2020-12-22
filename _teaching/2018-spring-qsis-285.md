@@ -12,4 +12,4 @@ In Business Statistics, students select and apply appropriate statistical tools 
 
 I taught eight sections of Business Statstics 285 from fall 2016 through summer 2018. See my <a href="https://lisasteaching.github.io/DuquesneProf/business_statistics/" target="_blank">teaching portfolio</a> for sample lessons and activities.<br/>
 
-<a href="lisaover.github.io/files/syllabus_BusStats_Spr2018.pdf" target="_blank">Business Statistics Syllabus</a>
+<!-- <a href="https://lisaover.github.io/files/syllabus_BusStats_Spr2018.pdf" target="_blank">Business Statistics Syllabus</a> -->
