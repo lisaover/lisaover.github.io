@@ -4,7 +4,7 @@ excerpt: "The Life During COVID-19 Metadata Schema Application Profile is an XML
 collection: portfolio
 ---
 
-<a href="https://github.com/lisaover/PittMetadata">View Project on GitHub</a>
+<a href="https://github.com/lisaover/PittMetadata">View the Project on GitHub</a>
 
 ## Application Profile
 ### Life During COVID-19 Metadata Schema
