@@ -5,7 +5,7 @@ and the XML version of JSP (jspx) to generate the views.<br/><img src='/images/B
 collection: portfolio
 ---
 
-<a href="https://github.com/lisaover/DuqWebSystems">View Project on GitHub</a>
+<a href="https://github.com/lisaover/DuqWebSystems">View the Project on GitHub</a>
 
 The Boggle folder contains a servlet version of Boggle that implements the MVC design pattern using a Java servlet as controller, a Java Beans class for the data model, 
 and the XML version of JSP (jspx) to generate the views. 
