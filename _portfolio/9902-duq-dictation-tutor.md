@@ -51,18 +51,16 @@ The Guided Practice section allows students to hear and practice typing vocabula
 
 <img src='/images/Vocabulary-Feedback.png'>
 
-<!--
-![Dictation Tutor Test Settings](images/Settings.png)
+![Dictation Tutor Test Settings](/images/Settings.png)
 
-![Dictation Tutor Q & A Test](images/Q-n-A-Test.png)
+![Dictation Tutor Vocabulary Test](/images/Vocabulary-Test.png)
 
-![Dictation Tutor Q & A Feedback](images/Q-n-A-Feedback.png)
+![Dictation Tutor Vocabulary Feedback](/images/Vocabulary-Feedback.png)
 
-![Dictation Tutor Sentence Scramble Test](images/Sentence-Scramble-Test.png)
+![Dictation Tutor Sentence Scramble Test](/images/Sentence-Scramble-Test.png)
 
-![Dictation Tutor Sentence Scramble Feedback](images/Sentence-Scramble-Feedback.png)
+![Dictation Tutor Sentence Scramble Feedback](/images/Sentence-Scramble-Feedback.png)
 
-![Dictation Tutor Vocabulary Test](images/Vocabulary-Test.png)
+![Dictation Tutor Q & A Test](/images/Q-n-A-Test.png)
 
-![Dictation Tutor Vocabulary Feedback](images/Vocabulary-Feedback.png)
--->
+![Dictation Tutor Q & A Feedback](/images/Q-n-A-Feedback.png)
