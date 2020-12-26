@@ -8,7 +8,7 @@ collection: portfolio
 
 The Dictation Tutor application was a group project for a software engineering class. Our team’s goal was to create and deliver a java application to enable English language learners to practice writing from oral prompts in preparation for the written portion of the citizenship test. My contribution as a team member was to code the user interface using Java Swing and NetBeans. The following image is the startup screen, which illustrates the three ways students can use the software to practice: Guided Practice, Practice Test, and Simulated Test.
 
-![Main Menu](images/MainMenu.png)
+<img src='/images/MainMenu.png'>
 
 #### The Written Citizenship Test
 
