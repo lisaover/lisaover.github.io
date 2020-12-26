@@ -10,13 +10,22 @@ The Dictation Tutor application was a group project for a software engineering c
 
 <img src='/images/MainMenu.png'>
 
-#### The Written Citizenship Test
+### The Written Citizenship Test
 
 The written citizenship writing test is comprised of three sections: writing vocabulary words after hearing the word spoken, writing the words in a scrambled sentence in the correct order after hearing the correct order of the words, and writing the answer to a written question after hearing the answer spoken.
 
 The Guided Practice section allows students to hear and practice typing vocabulary words and sentences where they can see the correct answer if they need to. The Practice Test section allows students to practice one portion of the test at a time with no limit on the number of words/questions. The Simulated Test section simulates the actual test by choosing a preselected number of random words/sentences from each section. This section also uses an edit distance algorithm to provide instant feedback on the screen and documented feedback in the form of a downloadable spreadsheet.
 
-#### Guided Practice and Practice Test Screens
+### Guided Practice and Practice Test Screens
+<img src='/images/Guided-Practice.png'>
+
+<img src='/images/Q-n-A-Practice.png'>
+
+<img src='/images/Sentence-Scramble-Practice.png'>
+
+<img src='/images/Vocabulary-Practice.png'>
+
+<!--
 ![Dictation Tutor Guided Practice](images/Guided-Practice.png)
 
 ![Dictation Tutor Q & A Practice Test](images/Q-n-A-Practice.png)
@@ -24,8 +33,25 @@ The Guided Practice section allows students to hear and practice typing vocabula
 ![Dictation Tutor Sentence Scramble Practice Test](images/Sentence-Scramble-Practice.png)
 
 ![Dictation Tutor Vocabulary Practice Test](images/Vocabulary-Practice.png)
+-->
             
-#### Test and Feedback Screens
+### Test and Feedback Screens
+
+<img src='/images/Settings.png'>
+
+<img src='/images/Q-n-A-Test.png'>
+
+<img src='/images/Q-n-A-Feedback.png'>
+
+<img src='/images/Sentence-Scramble-Test.png'>
+
+<img src='/images/Sentence-Scramble-Feedback.png'>
+
+<img src='/images/Vocabulary-Test.png'>
+
+<img src='/images/Vocabulary-Feedback.png'>
+
+<!--
 ![Dictation Tutor Test Settings](images/Settings.png)
 
 ![Dictation Tutor Q & A Test](images/Q-n-A-Test.png)
@@ -39,3 +65,4 @@ The Guided Practice section allows students to hear and practice typing vocabula
 ![Dictation Tutor Vocabulary Test](images/Vocabulary-Test.png)
 
 ![Dictation Tutor Vocabulary Feedback](images/Vocabulary-Feedback.png)
+-->
