@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-ucor-111
 venue: "Duquense University, Department of Mathematics and Computer Science"
-date: 2018-01-01
+date: Spring 2018
 location: "Pittsburgh, United States"
 ---
 
