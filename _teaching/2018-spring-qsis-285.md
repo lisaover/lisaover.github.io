@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-qsis-285
 venue: "Duquesne University, Palumbo-Donahue School of Business"
-date: Fall 2016 - Summer 2018
+date: 01-01-2018
 location: "Pittsburgh, United States"
 ---
 

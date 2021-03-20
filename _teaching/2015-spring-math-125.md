@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-math-125
 venue: "Duquesne University, Department of Mathematics and Computer Science"
-date: Spring 2015
+date: 01-01-2015
 location: "Pittsburgh, United States"
 ---
 
