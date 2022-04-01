@@ -42,8 +42,9 @@ Data management professional with expertise in programming, statistics, educatio
 
 ## Professional Development
 
-<a href="https://github.com/lisaover/MITxCompThinkDataSci" target="_bank">Introduction to Computational Thinking and Data Science</a> by MITx on edX, September 2018</br>
-<a href="https://github.com/lisaover/UMichDataScience" target="_bank">Introduction to Data Science in Python by University of Michigan</a> on Coursera, September 2018</br>
+<a href="https://courses.edx.org/certificates/a635aa5fb0924816bbbfc9f4c8ded3c5" target="_bank">Sorting Truth from Fiction: Civic Online Reasoning</a> by MITx on edX, August 2021<br/>
+<a href="https://github.com/lisaover/MITxCompThinkDataSci" target="_bank">Introduction to Computational Thinking and Data Science</a> by MITx on edX, September 2018<br/>
+<a href="https://github.com/lisaover/UMichDataScience" target="_bank">Introduction to Data Science in Python by University of Michigan</a> on Coursera, September 2018<br/>
 <a href="https://github.com/lisaover/MITxCompSciPython" target="_bank">Introduction to Computer Science and Programming Using Python</a> by MITx on edX, August 2018
 
 ## Work experience
