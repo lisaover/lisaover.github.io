@@ -39,19 +39,19 @@ Data management professional with expertise in programming, statistics, educatio
 Epidemiology Data Center LITES Research Study, University of Pittsburgh
 
 Prehospital Airway Control Trial (PACT), October 2020 to Present<br/>
-Platelet Early Intervention in Hemorrhagic Shock Trial (CriSP), January 2021 to Present<br/>
+Platelet Early Intervention in Hemorrhagic Shock Trial (CriSP), January 2021 to Present
   * Develop applications and reports for an Oracle-based, in-house data management system to facilitate data entry and access to up-to-date summaries and snapshots of critical subject data. 
   * Develop programs to query the database and write clinical monitoring, payment, and site monitoring committee reports for study administration.
   * Improved the process of reporting medical data through custom data entry utilities for reporting data where the number of entries varies among subjects. These utilities integrate seamlessly within the in-house data management system.
   * Edited and reformated the original LITES data management manual for adaptation and use in all LITES studies.
 
-Shock, Whole blood, and Assessment of TBI (SWAT), January 2019 to Present<br/>	
+Shock, Whole blood, and Assessment of TBI (SWAT), January 2019 to Present	
   * Develop and maintain SAS programs to find missing, out-of-range, and illogical data and to write and format data compliance reports.
   * Develop and maintain a SAS program to track payments to sites for study participation and to write and format payment due reports.
 
-Trauma, Brain Injury, and Emergency Medical Systems, July 2021 to January 2022<br/>	
+Trauma, Brain Injury, and Emergency Medical Systems, July 2021 to January 2022	
   * Implemented data loading queries and procedures to update SQL Server study data from various sources including Excel files and other databases.
-  * Developed C# script with SQL Server Integration Studio to export all Database tables to CSV files.
+  * Developed C# script with SQL Server Integration Studio to export all database tables to CSV files.
   * Developed a SAS/VBA program that writes and formats Excel reports to notify sites and facilitate reporting of pending data entry requirements for specific subjects.
 
 ## Professional Organizations
@@ -71,7 +71,7 @@ Trauma, Brain Injury, and Emergency Medical Systems, July 2021 to January 2022<b
 Data Management Assistant<br/>
 University of Pittsburgh, Epidemiology Data Center, Pittsburgh, PA<br/>	
 Data Management Assistent, January 2019 to October 2021<br/>
-Data Manager, October 2021 to Present<br/>
+Data Manager, October 2021 to Present
   * Develop computer-based monitoring procedures using PL/SQL, SAS, and VBA to summarize data quality issues, important subject information, and site monitoring and payment information.
   * Develop web-based data gathering applications using PL/SQL and JavaScript to facilitate quality data entry.
   * Work closely with clinical personnel and statisticians to understand reporting requirements and to develop effective methods of providing datasets and reports as needed.
