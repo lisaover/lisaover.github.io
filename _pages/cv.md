@@ -68,7 +68,7 @@ Trauma, Brain Injury, and Emergency Medical Systems, July 2021 to January 2022
 
 ## Work experience
 
-Data Management Assistant<br/>
+Data Manager<br/>
 University of Pittsburgh, Epidemiology Data Center, Pittsburgh, PA<br/>	
 Data Management Assistent, January 2019 to October 2021<br/>
 Data Manager, October 2021 to Present
