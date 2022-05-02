@@ -45,6 +45,6 @@ All documents listed above&ndash;Data Services Procedures, Data Coordinator Proc
 * User Guide: Critical Records Program
 * Data Coordinator Artifacts:
 
- * Data Coordinator Procedures
- * Prioritizing Data Publication
- * User Guide: Newsletter
+  * Data Coordinator Procedures
+  * Prioritizing Data Publication
+  * User Guide: Newsletter
