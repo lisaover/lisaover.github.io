@@ -4,7 +4,7 @@ excerpt: "This project involved contextual design research and the development o
 collection: portfolio
 ---
 
-<a href="https://lisaover.github.io/DataGovHealthStatusChks">View the Project Website</a>
+<a href="https://lisaover.github.io/DataGovHealthStatusChecks">View the Project Website</a>
 
 # Data Governance Health Status Checks
 
