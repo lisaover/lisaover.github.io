@@ -4,7 +4,7 @@ excerpt: "For my thesis for the Computational Mathematics program at Duquesne, I
 collection: portfolio
 ---
 
-<a href="https://github.com/lisaover/DuqWebSystems">View the Project on GitHub</a>
+<a href="https://github.com/lisaover/DuqMastersThesis">View the Project on GitHub</a>
 
 The No Child Left Behind (NCLB) era of educational reform, which is now at the close of its 14th year, focuses on improving student learning by using research-based 
 teaching techniques, making evidence-based decisions, hiring quality teachers, holding schools and school districts accountable for student performance, and allowing 
