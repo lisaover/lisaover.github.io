@@ -19,11 +19,11 @@ Data management professional with expertise in programming, statistics, educatio
 
 ## Skills
 
-| Data Science         	| Application Development    	| Communication & Design     	|
-|----------------------	|----------------------------	|----------------------------	|
-| SAS, Python, R, SAS  	| PL/SQL Developer, T-SQL    	| Teaching, Writing, Editing 	|
-| SQL, SSIS, SSAS, DQS 	| Java, PHP, JSP, JavaScript 	| Photoshop, Illustrator     	|
-| VBA, Excel, Access   	| XML, XSLT, HTML, CSS        	| Publisher, Word            	|
+| Data Science          	| Application Development    	| Communication & Design     	|
+|----------------------	  |----------------------------	|----------------------------	|
+| SQL, Python, R, SAS     | PL/SQL Developer    	      | Teaching, Writing, Editing 	|
+| T-SQL, SSIS, SSAS, DQS 	| Java, PHP, JSP, JavaScript 	| Photoshop, Illustrator     	|
+| VBA, Excel, Access   	  | XML, XSLT, HTML, CSS        | Publisher, Word            	|
 
 ## Professional Experience
 
