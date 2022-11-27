@@ -30,19 +30,13 @@ Data management professional with expertise in programming, statistics, educatio
 ### Data Manager<br/>University of Pittsburgh, Epidemiology Data Center, Pittsburgh, PA<br/>	
 &nbsp; &nbsp; Data Management Assistent, Jan 2019 to Oct 2021<br/>
 &nbsp; &nbsp; Data Manager, Oct 2021 to Present
-*	Develop computer-based monitoring procedures using PL/SQL, SAS, and VBA to summarize data quality issues, important subject information, and site monitoring and payment information.
-*	Develop web-based data gathering applications using PL/SQL and JavaScript to facilitate quality data entry.
-*	Improve the process of reporting medical data through data entry applications designed to handle data entry where the number of records varies among subjects.
+*	Develop and maintain applications and reports for an Oracle-based in-house data management system to facilitate data entry and to support study administrators and other data managers.
 *	Work closely with clinical personnel and statisticians to understand reporting requirements and to develop effective methods of providing datasets and reports as needed.
 *	Perform data munging tasks to clean and consolidate or split up data from complex, disparate datasets into datasets suitable for analysis.
-*	Improve data compliance reporting and quality control procedures by communicating inconsistencies and problems with data entry forms, or their use, through regular data management meetings and reports.
-*	Write, edit, and format data management documentation.
-*	Implement data loading procedures to load electronic health record data from Excel and flat file sources to target tables.
-*	Develop an application to map study variables to form structures required by the Federal Interagency Traumatic Brain Injury Research (FITBIR) organization.
 
 ### Adjunct Professor, Business Statistics<br/>Duquesne University, Pittsburgh, PA			
 &nbsp; &nbsp; Aug 2016 to Jun 2018
-* Developed the syllabus and taught solo eight sections of Business Statistics courses and one section of Problem Solving..
+* Developed the syllabus and taught solo eight sections of Business Statistics courses and one section of Problem Solving.
 
 ### Teaching Assistantship, Master of Computational Mathematics<br/>Duquesne University, Pittsburgh, PA			
 &nbsp; &nbsp; Aug 2013 to May 2015
