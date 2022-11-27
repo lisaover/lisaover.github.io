@@ -1,6 +1,6 @@
 ---
 title: "Dictation Tutor"
-excerpt: "Dictation Tutor is a java application to enable English language learners to practice writing from oral prompts in preparation for the written portion of the citizenship test.<br/><img src='/images/MainMenu.png'>"
+excerpt: "A collaborative project to create a java application to enable English language learners to practice writing from oral prompts in preparation for the written portion of the citizenship test.<br/><img src='/images/MainMenu.png'>"
 collection: portfolio
 ---
 

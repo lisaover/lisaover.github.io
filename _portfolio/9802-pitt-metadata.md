@@ -1,6 +1,6 @@
 ---
 title: "Life During COVID-19 Application Profile and Metadata Schema"
-excerpt: "The Life During COVID-19 Metadata Schema Application Profile is an XML Schema application profile for describing a collection of internet-based media and datasets that reflect American reactions and outcomes related to the COVID-19 pandemic of 2019-2020.<br/><img src='/images/LifeDuringCOVID-19ConceptualModel.png'>"
+excerpt: "A collaborative project to create a Metadata Schema Application Profile. The Life During COVID-19 is an XML Schema application profile for describing a collection of internet-based media and datasets that reflect American reactions and outcomes related to the COVID-19 pandemic of 2019-2020.<br/><img src='/images/LifeDuringCOVID-19ConceptualModel.png'>"
 collection: portfolio
 ---
 

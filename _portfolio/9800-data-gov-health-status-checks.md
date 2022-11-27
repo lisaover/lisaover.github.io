@@ -1,6 +1,6 @@
 ---
 title: "Data Governance Health Status Checks"
-excerpt: "This project involved contextual design research and the development of user-centered procedures and tools for the City of Pittsburgh's Data Governance Health Status Checks.<br/><img src='/images/Mission_Critical.png'>"
+excerpt: "This collaborative project involved contextual design research and the development of user-centered procedures and tools for the City of Pittsburgh's Data Governance Health Status Checks.<br/><img src='/images/Mission_Critical.png'>"
 collection: portfolio
 ---
 
