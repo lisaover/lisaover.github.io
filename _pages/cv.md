@@ -36,7 +36,7 @@ Data management professional with expertise in programming, statistics, educatio
 
 ### Adjunct Professor<br/>Duquesne University, Pittsburgh, PA			
 &nbsp; &nbsp; Aug 2016 to Jun 2018<br/>
-* Developed the syllabus and taught eight sections of Business Statistics over five semesters and one section of Problem Solving in spring 2018.
+* Developed the syllabus and taught eight sections of *Business Statistics* over five semesters and one section of *Problem Solving* in spring 2018.
 * Designed lessons to engage students with real-world and hands-on activities.
 
 ### Teaching Assistantship, Master of Computational Mathematics<br/>Duquesne University, Pittsburgh, PA			
