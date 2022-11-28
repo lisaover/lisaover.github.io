@@ -40,7 +40,7 @@ Data management professional with expertise in programming, statistics, educatio
 
 ### Teaching Assistantship, Master of Computational Mathematics<br/>Duquesne University, Pittsburgh, PA			
 &nbsp; &nbsp; Aug 2013 to May 2015
-* Responsible for tutoring undergraduate students in *Intro to Biostatistics* and *Biostatistics II* courses.
+* Tutored undergraduate students in *Intro to Biostatistics* and *Biostatistics II* courses.
 * Developed the syllabus for and taught one section of *Fundamentals of Statistics*
 
 ### Web Designer and Administrator<br/>Self-employed, Pittsburgh, PA					
