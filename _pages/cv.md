@@ -51,8 +51,7 @@ Data management professional with expertise in programming, statistics, educatio
 
 <strong>Master of Library & Information Science, expected 2023</strong><br/>
 University of Pittsburgh, Pittsburgh, PA<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applied Data Driven Methods Certificate<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Pittsburgh, Pittsburgh, PA
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Certificate:* Applied Data Driven Methods<br/>
   
 <strong>Master of Science in Computational Mathematics, 2015</strong><br/>
 Duquesne University, Pittsburgh, PA<br />
@@ -64,7 +63,7 @@ Robert Morris University, Pittsburgh, PA
   
 <strong>Bachelor of Science in Scientific and Technical Communication, 1994</strong><br/>
 Bowling Green State University, Bowling green, Ohio<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Specialization in Math and Computer Science<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Specialization:* Mathematics and Computer Science<br/>
 
 ## Professional Organizations
 
