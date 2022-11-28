@@ -34,14 +34,15 @@ Data management professional with expertise in programming, statistics, educatio
 *	Work closely with clinical personnel and statisticians to understand reporting requirements and to develop effective methods of providing datasets and reports as needed.
 *	Perform data munging tasks to clean and consolidate or split up data from complex, disparate datasets into datasets suitable for analysis.
 
-### Adjunct Professor, Business Statistics<br/>Duquesne University, Pittsburgh, PA			
+### Adjunct Professor<br/>Duquesne University, Pittsburgh, PA			
 &nbsp; &nbsp; Aug 2016 to Jun 2018<br/>
-* Developed the syllabus and taught eight sections of Business Statistics courses.
+* Developed the syllabus and taught eight sections of Business Statistics over five semesters and one section of Problem Solving in spring 2018.
+* Designed lessons to engage students with real-world and hands-on activities.
 
 ### Teaching Assistantship, Master of Computational Mathematics<br/>Duquesne University, Pittsburgh, PA			
 &nbsp; &nbsp; Aug 2013 to May 2015
 * Tutored undergraduate students in *Intro to Biostatistics* and *Biostatistics II* courses.
-* Developed the syllabus for and taught one section of *Fundamentals of Statistics*
+* Developed the syllabus for and taught one section of *Fundamentals of Statistics* in spring 2015
 
 ### Web Designer and Administrator<br/>Self-employed, Pittsburgh, PA					
 &nbsp; &nbsp; Aug 2006 to Jan 2019<br/>
