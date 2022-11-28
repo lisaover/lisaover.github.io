@@ -28,7 +28,7 @@ Data management professional with expertise in programming, statistics, educatio
 ## Professional Experience
 
 ### Data Manager<br/>University of Pittsburgh, Epidemiology Data Center, Pittsburgh, PA<br/>	
-&nbsp; &nbsp; Data Manager, Oct 2021 to Present
+&nbsp; &nbsp; Data Manager, Oct 2021 to Present<br/>
 &nbsp; &nbsp; Data Management Assistent, Jan 2019 to Oct 2021<br/>
 *	Develop and maintain applications and reports for an Oracle-based in-house data management system to facilitate data entry and to support study administrators and other data managers.
 *	Work closely with clinical personnel and statisticians to understand reporting requirements and to develop effective methods of providing datasets and reports as needed.
@@ -36,16 +36,16 @@ Data management professional with expertise in programming, statistics, educatio
 
 ### Adjunct Professor, Business Statistics<br/>Duquesne University, Pittsburgh, PA			
 &nbsp; &nbsp; Aug 2016 to Jun 2018<br/>
-Developed the syllabus and taught solo eight sections of Business Statistics courses and one section of Problem Solving.
+* Developed the syllabus and taught eight sections of Business Statistics courses.
 
 ### Teaching Assistantship, Master of Computational Mathematics<br/>Duquesne University, Pittsburgh, PA			
 &nbsp; &nbsp; Aug 2013 to May 2015
 * Responsible for tutoring undergraduate students in *Intro to Biostatistics* and *Biostatistics II* courses.
-* Developed the syllabus for and taught solo one section of *Fundamentals of Statistics*
+* Developed the syllabus for and taught one section of *Fundamentals of Statistics*
 
 ### Web Designer and Administrator<br/>Self-employed, Pittsburgh, PA					
 &nbsp; &nbsp; Aug 2006 to Jan 2019<br/>
-Created websites for local children’s authors to promote their books and programs. Focused on accessibility, usability, and maintainability.
+* Created websites for local children’s authors to promote their books and programs. Focused on accessibility, usability, and maintainability.
 
 ## Education
 
