@@ -28,7 +28,7 @@ I manage research data for a multifaceted study focused on the care and outcomes
 ### Data Manager<br/>University of Pittsburgh, Epidemiology Data Center, Pittsburgh, PA<br/>	
 &nbsp; &nbsp; Data Manager, Oct 2021 to Present<br/>
 &nbsp; &nbsp; Data Management Assistent, Jan 2019 to Oct 2021<br/>
-*	Develop and maintain applications and reports for an Oracle-based in-house data management system to facilitate data entry and to support study administrators and other data managers.
+*	Develop and maintain applications and reports to facilitate data entry and to support study administrators and other data managers.
 *	Work closely with clinical personnel and statisticians to understand reporting requirements and to develop effective methods of providing datasets and reports as needed.
 *	Perform data munging tasks to clean and consolidate or split up data from complex, disparate datasets into datasets suitable for analysis.
 
