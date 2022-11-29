@@ -13,7 +13,7 @@ redirect_from:
 
 **Data management professional with expertise in programming, statistics, education, and communication**
 
-I manage research data for a multifaceted study focused on the care and outcomes of traumatic injuries with the goal of updating existing standards of care. I focus on meeting the needs of the people using my products, which include other data managers, data analysts, project managers, and study directors. I am part of a team that makes sense of data for the benefit of the public. What I do is essential to people, and the families of people, who receive better care as a result of this study.
+I manage research data for a multifaceted study focused on the care and outcomes of traumatic injuries with the goal of updating existing standards of care. I develop reports and applications to support study administration and perform data munging tasks to make complex datasets more accessible. I focus on the needs of my clients, which include other data managers, data analysts, project managers, and study directors. I am part of a team that makes sense of data for the benefit of the public. What I do is essential to people, and the families of people, who receive better care as a result of this study.
 
 ## Skills
 
