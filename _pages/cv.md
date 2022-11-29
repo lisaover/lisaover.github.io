@@ -11,11 +11,9 @@ redirect_from:
 
 ## Career Profile
 
-Data management professional with expertise in programming, statistics, education, and communication
+**Data management professional with expertise in programming, statistics, education, and communication**
 
-* Resourceful programmer with experience in data management, data visualization, statistical modeling, user interfaces, and web development.
-* Proficient problem solver with experience applying data mining techniques and statistical methods including linear and logistic regression modeling and analysis of variance and covariance.
-* Productive and innovative teacher, writer, and editor adept at communicating technical concepts to a non-technical audience through effective presentations and user documentation.
+I manage research data for a multifaceted study focused on the care and outcomes of traumatic injuries with the goal of updating existing standards of care. I focus on meeting the needs of the people using my products, which include other data managers, data analysts, project managers, and study directors. I am part of a team that makes sense of data for the benefit of the public. What I do is essential to people, and the families of people, who receive better care as a result of this study.
 
 ## Skills
 
@@ -37,7 +35,7 @@ Data management professional with expertise in programming, statistics, educatio
 ### Adjunct Professor<br/>Duquesne University, Pittsburgh, PA			
 &nbsp; &nbsp; Aug 2016 to Jun 2018<br/>
 * Developed the syllabus and taught eight sections of *Business Statistics* over five semesters and one section of *Problem Solving* in spring 2018.
-* Designed lessons to engage students with real-world and hands-on activities.
+* Designed lessons to engage students with real-world and hands-on activities that modeled the data analysis process to develop statistical thinking.
 
 ### Teaching Assistantship, Master of Computational Mathematics<br/>Duquesne University, Pittsburgh, PA			
 &nbsp; &nbsp; Aug 2013 to May 2015
