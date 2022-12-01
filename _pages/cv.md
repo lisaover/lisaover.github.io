@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-## Career Profile
+## Profile
 
-**Data management professional with expertise in programming, statistics, education, and communication**
-
-I manage research data for a multifaceted study focused on the care and outcomes of traumatic injuries with the goal of updating existing standards of care. I develop reports and applications to support study administration and perform data munging tasks to make complex datasets more accessible. I focus on the needs of my clients, which include other data managers, data analysts, project managers, and study directors. I am part of a team that makes sense of data for the benefit of the public. What I do is essential to people, and the families of people, who receive better care as a result of this study.
+As a data manager, I bring together my diverse background in communication, programming, and mathematics. My education and experience include technical writing, teaching, computational mathematics, data science, and library and information science. My goal is to bring my skills and experience together to contribute to research in Library and Information Science. 
 
 ## Skills
 
