@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Lisa Over. I am a data manager for the Epidemiology Data Center at the University of Pittsburgh where I manage research data for a multifaceted study focused on the care and outcomes of traumatic injuries with the goal of updating existing standards of care. I develop reports and applications that support quality data entry and study administration. I also perform data munging tasks to make complex datasets more accessible and easier to analyze. I focus on meeting the needs of the people using my products, which include other data managers, data analysts, project managers, and study directors. I am part of a team that makes sense of data for the benefit of the public. What I do is essential to people, and the families of people, who receive better care as a result of this study.
+Welcome! My name is Lisa Over. I manage research data for a multifaceted study focused on the care and outcomes of traumatic injuries with the goal of updating existing standards of care. I develop reports and applications to support study administration and perform data munging tasks to make complex datasets more accessible. I focus on the needs of my clients, which include other data managers, data analysts, project managers, and study directors. I am part of a team that makes sense of data for the benefit of the public. What I do is essential to people, and the families of people, who receive better care as a result of this study.
 
 My professional goal brings together my expertise and enthusiasm for computer programming, statistics, and math; my desire to solve problems that benefit people, organizations, or society; and my conviction to embrace challenges and life-long learning.
 
