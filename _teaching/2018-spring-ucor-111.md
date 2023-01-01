@@ -10,4 +10,4 @@ location: "Pittsburgh, United States"
 
 Problem solving involves gathering and organizing information about a problem and planning steps that will lead to a solution to the problem. Steps in the problem solving process can be very different from one problem to the next. The goal of this class was for students to design the gathering, organizing, and planning process for a variety of problems both in collaboration with others and on their own. To help students reach this goal, they practiced many techniques and strategies from statistics and probability, number theory, general mathematical laws, logic, Venn diagrams, and graph theory. In some cases, students generalized solutions to construct mathematical formulas.<br/>
 
-<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/problem_solving/syllabus-ProbSolv-Spr2018.pdf" target="_blank">Problem Solving Syllabus</a> 
+<a href="https://github.com/lisaover/lisaover.github.io/tree/master/files/syllabus-ProbSolv-Spr2018.pdf" target="_blank">Problem Solving Syllabus</a> 
