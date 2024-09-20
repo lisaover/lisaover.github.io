@@ -48,7 +48,6 @@ As a data manager, I bring together my diverse background in communication, prog
 
 <strong>Master of Data Science, expected 2027</strong><br/>
 University of Pittsburgh, Pittsburgh, PA<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Certificate:* Applied Data Driven Methods<br/>
 
 <strong>Master of Library & Information Science, 2023</strong><br/>
 University of Pittsburgh, Pittsburgh, PA<br/>
