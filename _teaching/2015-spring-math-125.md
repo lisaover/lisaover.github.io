@@ -10,6 +10,6 @@ location: "Pittsburgh, United States"
 
 Fundamentals of Statistics is a survey course in exploratory data analysis and statistical inference including graphical summaries of data, sampling distributions, confidence intervals, and hypothesis testing. Students engaged with these topics through hands-on activities and projects. 
 
-I taught one section of this course in spring 2015 as a student in the Computational Mathematics program. See my <a href="https://dslibr.github.io/DuquesneProf/fundamentals_stats/" target="_blank">teaching portfolio</a> for sample lessons and activities.<br/>
+I taught one section of this course in the spring semester of 2015 as a student in the Computational Mathematics program. See my <a href="https://dslibr.github.io/DuquesneProf/fundamentals_stats/" target="_blank">teaching portfolio</a> for sample lessons and activities.<br/>
 
 <!--<a href="/files/syllabus-MATH-125-Spr2015.pdf" target="_blank">Fundamentals of Statistics Syllabus</a> -->
